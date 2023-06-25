@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/HPgUt5X.jpg"},
+  {"desc2":"The Skibidi Toilet's design combines aesthetics, comfort, and functionality to provide users with a unique experience","photo2":"https://iili.io/HPgUpzG.jpg"},
+  {"desc3":"It features a sleek and modern appearance, blending seamlessly with any bathroom decor","photo3":"https://iili.io/HPgUDen.jpg"},
+  {"desc4":"The ergonomic seat design ensures maximum comfort, while its compact size makes it suitable for both large and small bathrooms","photo4":"https://iili.io/HPgUbbs.jpgg"},
+  {"desc5":"The Skibidi Toilet incorporates advanced materials that are easy to clean and resistant to stains and odors, maintaining hygiene and reducing maintenance efforts.","photo5":"https://iili.io/HPgUyXf.jpg"},
+  {"descd":"Skibidi Toilet offers several innovative features that enhance user convenience and promote better hygiene","photod":"https://iili.io/HPgg9s4.jpg"}
    ]
  
 }
